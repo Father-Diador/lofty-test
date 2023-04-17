@@ -1,5 +1,7 @@
 # lofty-test
 
+## Задание 2 и 3 находятся в корневой папке (task-2.js и task-3.js)
+
 ## Project setup
 ```
 npm install
